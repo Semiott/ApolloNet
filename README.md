@@ -1,5 +1,7 @@
-# ReedNet
-Point Proofs for Staking Systems in Beacon Chains
+# PinnacleNet
+Chainlink Oracle Created using Privacy Preserving Proofs of Data Source and Data Range
 
 # Overview 
-- Point Proofs instead of Merkle Trees for Efficient Storage and Security of Staking Systems in Beacon Chains
+- Chainlink Client
+- BLS Signature
+- ECDSA Signature
